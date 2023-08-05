@@ -1,7 +1,11 @@
 <h2 align="center">Hi 👋, I'm Bilal Ul Haque</h2>
 <p align="left">A Software Engineer from Pakistan. Passionate about open source and always eager to explore new places. As a tech enthusiast, I'm constantly looking to learn about the newest cutting-edge technologies. Let's build something extraordinary together! ✨👨‍💻</p>
-<br><br>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [portfolio](github.com/bilalulhaque)
 
