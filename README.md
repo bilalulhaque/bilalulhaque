@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/bilalulhaque](github.com/bilalulhaque)
 
-- 📝 I regularly write articles on [https://medium.com/@bilalulhaque16](https://medium.com/@bilalulhaque16)
+- 📝 I regularly write articles on [https://medium.com/@bilalulhaque16](medium)
 
 - 💬 Ask me about **JavaScript, ReactJS, Python, Django, Flask, NodeJS, Web development and AI**
 
