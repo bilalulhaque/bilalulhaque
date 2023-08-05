@@ -1,6 +1,6 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Bilal Ul Haque</h1>
-<h3 align="center">A Software Engineer from Pakistan 🚀 Passionate about open source and always eager to explore new places. As As a tech enthusiast, I'm constantly looking to learn about the newest cutting-edge technologies. Let's build something extraordinary together! ✨👨‍💻</h3>
+<p align="left">A Software Engineer from Pakistan 🚀 Passionate about open source and always eager to explore new places. As As a tech enthusiast, I'm constantly looking to learn about the newest cutting-edge technologies. Let's build something extraordinary together! ✨👨‍💻</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 All of my projects are available at [github.com/bilalulhaque](github.com/bilalulhaque)
