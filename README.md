@@ -1,17 +1,18 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Bilal Ul Haque</h1>
 <p align="left">A Software Engineer from Pakistan 🚀 Passionate about open source and always eager to explore new places. As As a tech enthusiast, I'm constantly looking to learn about the newest cutting-edge technologies. Let's build something extraordinary together! ✨👨‍💻</p>
+<br><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 All of my projects are available at [github.com/bilalulhaque](github.com/bilalulhaque)
 
-- 📝 I regularly write articles on [https://medium.com/@bilalulhaque16](medium)
+- 📝 I regularly write articles on [medium](https://medium.com/@bilalulhaque16)
 
 - 💬 Ask me about **JavaScript, ReactJS, Python, Django, Flask, NodeJS, Web development and AI**
 
 - 📫 How to reach me **bilalulhaque16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oPZ8YqJ2C9rOMkzt30b33ddQoYwHv4Io/view?usp=drive_link](https://drive.google.com/file/d/1oPZ8YqJ2C9rOMkzt30b33ddQoYwHv4Io/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oPZ8YqJ2C9rOMkzt30b33ddQoYwHv4Io/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
