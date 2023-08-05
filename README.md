@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilal Ul Haque</h1>
+<h2 align="center">Hi 👋, I'm Bilal Ul Haque</h2>
 <p align="left">A Software Engineer from Pakistan. Passionate about open source and always eager to explore new places. As a tech enthusiast, I'm constantly looking to learn about the newest cutting-edge technologies. Let's build something extraordinary together! ✨👨‍💻</p>
 
 <h3 align="left">Connect with me:</h3>
