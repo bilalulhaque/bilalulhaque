@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br><br><br>
+<br>
 - 👨‍💻 All of my projects are available at [portfolio](github.com/bilalulhaque)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@bilalulhaque16)
