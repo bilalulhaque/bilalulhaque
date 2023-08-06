@@ -5,7 +5,7 @@
 
   <br>
 
-- 🔭 I'm currently exploring Backend Development
+- 🔭 I'm currently exploring **Backend Development**
   
 - 🤝 I love open source and would love to contribute to **open source projects**
   
