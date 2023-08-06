@@ -11,6 +11,10 @@
 <a href="https://medium.com/@bilalulhaque16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bilalulhaque16" height="25" width="35" /></a>
 </p>
 
+- 🔭 I'm currently exploring Backend Development
+  
+- 🤝 I love open source and would love to contribute to **open source projects**
+  
 - 👨‍💻 All of my projects are available at [portfolio](github.com/bilalulhaque)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@bilalulhaque16)
