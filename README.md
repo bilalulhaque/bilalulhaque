@@ -2,7 +2,7 @@
 <p align="left">A Software Engineer from Pakistan. Passionate about open source and always eager to explore new places. As a tech enthusiast, I'm constantly looking to learn about the newest cutting-edge technologies. Let's build something extraordinary together! ✨👨‍💻</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+  <br>
 - 🔭 I'm currently exploring **Backend Development**
   
 - 🤝 I love open source and would love to contribute to **open source projects**
