@@ -9,7 +9,7 @@
   
 - 🤝 I love open source and would love to contribute to **open source projects**
   
-- 👨‍💻 All of my projects are available at [portfolio](github.com/bilalulhaque)
+- 👨‍💻 All of my projects are available at [portfolio](https://bilalulhaque.com)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@bilalulhaque16)
 
