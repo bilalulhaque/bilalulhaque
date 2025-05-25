@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **bilalulhaque16@gmail.com**
 
-- 📄 [Resume](https://bilalportfoliobucket.s3.amazonaws.com/Bilal+ul+Haque-Software+Engineer-Resume.pdf)
+- 📄 [Resume](https://bilalportfoliobucket.s3.us-east-1.amazonaws.com/Muhammad-Bilal-Ul-Haque-(Software-Engineer)-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
